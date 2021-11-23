@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/smartbrain.github.io/static/css/main.bc77dca1.chunk.css",
+    "main.js": "/smartbrain.github.io/static/js/main.a4713672.chunk.js",
+    "main.js.map": "/smartbrain.github.io/static/js/main.a4713672.chunk.js.map",
+    "runtime-main.js": "/smartbrain.github.io/static/js/runtime-main.a235ce30.js",
+    "runtime-main.js.map": "/smartbrain.github.io/static/js/runtime-main.a235ce30.js.map",
+    "static/css/2.31461e4f.chunk.css": "/smartbrain.github.io/static/css/2.31461e4f.chunk.css",
+    "static/js/2.75127932.chunk.js": "/smartbrain.github.io/static/js/2.75127932.chunk.js",
+    "static/js/2.75127932.chunk.js.map": "/smartbrain.github.io/static/js/2.75127932.chunk.js.map",
+    "index.html": "/smartbrain.github.io/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/smartbrain.github.io/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.bc77dca1.chunk.css.map": "/smartbrain.github.io/static/css/main.bc77dca1.chunk.css.map",
+    "static/js/2.75127932.chunk.js.LICENSE.txt": "/smartbrain.github.io/static/js/2.75127932.chunk.js.LICENSE.txt",
+    "static/media/clipart1249120.afed0b67.png": "/smartbrain.github.io/static/media/clipart1249120.afed0b67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a235ce30.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.75127932.chunk.js",
+    "static/css/main.bc77dca1.chunk.css",
+    "static/js/main.a4713672.chunk.js"
+  ]
+}
